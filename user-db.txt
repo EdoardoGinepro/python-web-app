@@ -1,5 +1,0 @@
-Sistema: PostgreSQL
-Host: db
-User: postgres
-Password: password
-Database: mydatabase
